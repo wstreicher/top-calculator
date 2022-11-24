@@ -1,0 +1,52 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+    flex-direction: column;
+}
+
+.display {
+    background-color: aqua;
+    padding: 10px;
+    margin-top: 10px;
+    width:90vh;
+    height: 10vh;
+}
+
+.keys {
+    display: flex;
+    gap: 3px;
+    align-items: center;
+    justify-content: center;
+}
+
+.number-keys {
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    margin: 3px;
+    font-size: large;
+}
+
+.column {
+    flex: 1;
+}
+
+.enter-key {
+    background-color: lightblue;
+    padding: 10px;
+    margin: 10px;
+}
+
+.number-key {
+    background-color: lightblue;
+    padding: 10px;
+    margin: 10px;
+}
+
+.operator-key {
+    background-color: lightblue;
+    padding: 10px;
+    margin: 10px;
+}
