@@ -8,9 +8,11 @@
 
 .display {
     background-color: aqua;
+    font-size: 10vh;
+    text-align: right;
     padding: 10px;
     margin-top: 10px;
-    width:90vh;
+    width: 80vh;
     height: 10vh;
 }
 
