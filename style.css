@@ -41,7 +41,8 @@
     margin: 10px;
 }
 
-.number-key {
+.number-key,
+.decimal-key {
     background-color: lightblue;
     padding: 10px;
     margin: 10px;
